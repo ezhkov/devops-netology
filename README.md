@@ -13,3 +13,4 @@
 ## Домашка 2
 
 - Добавлен remote gitlab
+- Добавлен remote bitbucket
