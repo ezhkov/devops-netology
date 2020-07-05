@@ -10,3 +10,6 @@
 - Файлы, включающие в себя слово `override`
 - Файлы конфигурации Terraform `terraformrc` и `terraform.rc`
 
+## Ветки
+
+Добавлена ветка fix
